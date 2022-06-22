@@ -2,12 +2,12 @@
 Trabalho da faculdade
 
 Crie um programa Veiculo, para armazenar veículos de uma loja, contendo as seguintes informações:
-*Placas
-*Marcas
-*Modelos
-*Anos
-*Preços
-*Tipos (que poderá ser carro, caminhão ou moto)
+* Placas
+* Marcas
+* Modelos
+* Anos
+* Preços
+* Tipos (que poderá ser carro, caminhão ou moto)
 
 1. Crie uma estrutura para ler e cadastrar os N veículos vendidos por
 uma loja multimarcas.
