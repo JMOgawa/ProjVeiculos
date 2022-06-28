@@ -16,3 +16,6 @@ uma loja multimarcas.
 4. Calcule a média dos preços dos veículos de um determinado tipo
 digitado pelo usuário.
 5. Visualize os dados de todos os veículos da loja
+
+
+![result_python](https://user-images.githubusercontent.com/108015125/176255470-cdbbb3f5-194d-4d97-8753-71ec23d065ec.png)
